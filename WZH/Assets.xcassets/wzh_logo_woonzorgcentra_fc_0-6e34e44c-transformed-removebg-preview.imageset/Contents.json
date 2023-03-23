@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "wzh_logo_woonzorgcentra_fc_0-6e34e44c-transformed-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
